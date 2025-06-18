@@ -52,9 +52,9 @@ We compare customer enagagement with the product and customer service.
 The three of us will collaborate as a Project Manager, Data Architect, and Data Analyst to plan, prepare, and present a data-driven story. We'll extract, transform, and analyze data to build an interactive dashboard using Power BI. The final deliverable will showcase clear insights and effective storytelling through data visualization.
 
 # The rationale to map the business requirements to the Data Visualisations:
-## 1.
-## 2.
-## 3.
+## 1. Correlation Analysis: Visualisations such as heatmaps can display correlation matrices, making it easy to spot strong relationships. Correlation analysis helps identify which variables have the strongest positive or negative relationships with churn risk.
+## 2. Descriptive and Predictive Analysis: Based on correlation findings we have drilled down and demagraphic factors, transaction behaviour and account activity to identify main indicators that increase or decrease churn risk.
+
 
 # Analysis techniques used:
 Data extraction, cleaning and transformation in Jupyter Notebooks
@@ -85,10 +85,9 @@ We have used GitHub and various e-meetings channels to plan, contribute communic
 
 ### Content and Media
 
-* The data set is from https://www.kaggle.com/datasets/willianoliveiragibin/healthcare-insurance 
+* The data set is from https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers
 * Instructions and project templates are from: Code Institute https://learn.codeinstitute.net/ and GitHub: https://github.com/Code-Institute-Solutions/da-README-template, https://github.com/Code-Institute-Org/data-analytics-template
 * The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
-
-## Acknowledgements (optional)
+## Acknowledgements
 * Really appreciated the support and guidance from my tutors, coordinators and colleagues. Thank you!
