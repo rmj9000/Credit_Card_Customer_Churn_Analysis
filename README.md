@@ -87,6 +87,6 @@ GitHub user names:
 
 
 ## Acknowledgements
-* We really appreciated the support and guidance from our tutors, coordinators and colleagues. Thank you!
+* The support and guidance received from tutors, coordinators and colleagues was very much appreciated. Thank you!
 
 # ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
