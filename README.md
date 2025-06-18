@@ -29,7 +29,7 @@ Banks strive to keep their customers, since a high attrition rate leads to reduc
 ###*Conclusion*
 
 ## Project Plan
-The three of us will collaborate as a Project Manager, Data Architect, and Data Analyst to plan, prepare, and present a data-driven story. We'll extract, transform, and analyze data to build an interactive dashboard using Power BI. The final deliverable will showcase clear insights and effective storytelling through data visualization.
+The group will collaborate in the roles of Project Manager, Data Architect, and Data Analyst to plan, prepare, and present a data-driven story. Data will be extracted, transformed, and analysed to build an interactive dashboard using Power BI. The final deliverable will showcase clear insights and effective storytelling through data visualization.
 
 # The rationale to map the business requirements to the Data Visualisations:
 ## 1.
