@@ -1,14 +1,17 @@
 # Churn_CC_Data_PBI - PowerBI File ReadMe
 
-## Instructions for use of the PowerBI file with the data in this project
+## Instructions for use of the PowerBI files with the data in this project
 
-There were issues with sharing the PowerBI file with the visualisations created for the project. 
+There were issues with sharing the PowerBI files with the visualisations created for the project. 
 
 The issue is that it requires the absolute path for the data used ( BankChurners_cleaned.csv ) which is in the \data\inputs\cleaned folder in the GitHub repository.
 
 Attempts have been made to use a relative path, placing the data file in the same folder as the PowerBI file and trying to set a parameter to the relative path and pointing to the file.
 
+There are 2 Power BI files (in .pbix format) labelled chronologically.
 First of all, save the PowerBI file to your computer (.pbix file) then change the absolute pathname so that the data can be brought in from the data in this project.
+
+There are also 3 screenshots to preview the presentation.
 
 ## Step-by-Step: Create a Portable Power BI Package with the CSV file
 
