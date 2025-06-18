@@ -2,19 +2,19 @@
 
 # ![Project title](/data/inputs/images/CreditCardChurnAnalysis-title.png)
 
-This collaborative short project explores card attrition rates using Jupyter Notebooks for ETL along with BowerBI for visualisation. While not all customers who leave are necessarily churners, attrition data can provide a valuable insight for the trend and further investigation. Credit card churning happens when a person applies for lots of credit cards to collect big sign-up and welcome bonuses. Once they get the sign-up rewards and bonuses, a credit card churner will usually stop using the cards or cancel them, only to repeat the process again.
+This collaborative short project explores card attrition rates using Jupyter Notebooks for ETL along with PowerBI for visualisation. While not all customers who leave are necessarily churners, attrition data can provide a valuable insight for trends and further investigation. Credit card churning happens when a person applies for lots of credit cards to collect big sign-up and welcome bonuses. Once they get the sign-up rewards and bonuses, a credit card churner will usually stop using the cards or cancel them, only to repeat the process again.
 
 # Summary:
 * [Data Investigations Notebook]
 * [Cleaned Data]
-* [Visualisations Power BI]
+* [Visualisations in Power BI]
 * [Presentation]
 
 # DATAset:
 [Kaggle Credit Card Data](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers)
 
 # Business Requirements:
-Banks strive to keep their customers, since a high attrition rate leads to reduced profits. By analyzing trends among customers who leave, banks can take steps to lower attrition—either by modifying their services or shifting their marketing focus to different demographic segments.
+Banks strive to keep their customers, since a high attrition rate leads to reduced profits. By analyzing trends among customers who leave, banks can take steps to lower attrition — either by modifying their services or shifting their marketing focus to different demographic segments.
 
 # Hypotheses
 ## 1. Age & Gender
@@ -43,7 +43,7 @@ Data extraction, cleaning and transformation in Jupyter Notebooks
 Visualisation in Power BI: interactive dashboards and visual tools to analyze churn through descriptive stats, correlations, customer segmentation, and churn prediction, enabling data-driven retention strategies.
 
 # Ethical considerations:
-Financial data is highly sensitive and must adhere to GDPR and other relevant regulations. To ensure the protection of this information, the data was anonymized by removing client numbers.
+Financial data is highly sensitive and must adhere to GDPR and other relevant regulations. To ensure the protection of this information, the data was anonymised by removing client numbers.
 
 # Technologies used:
 * VS Code
@@ -53,7 +53,7 @@ Financial data is highly sensitive and must adhere to GDPR and other relevant re
 * AI tools: ChatGPT, Co-Pilot
 
 ## Development Roadmap
-We have used GitHub and various e-meetings channels to plan, contribute communicate and coordinate our tasks and workload.
+GitHub has been used for version control and various e-meetings channels to plan, contribute, communicate and coordinate tasks and workload.
 
 # Data Analysis Libraries:
 * Pandas- Purpose: Data loading, cleaning, and manipulation.
@@ -72,5 +72,5 @@ We have used GitHub and various e-meetings channels to plan, contribute communic
 * The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 
-## Acknowledgements (optional)
-* Really appreciated the support and guidance from my tutors, coordinators and colleagues. Thank you!
+## Acknowledgements
+* We really appreciated the support and guidance from our tutors, coordinators and colleagues. Thank you!
