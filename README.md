@@ -72,5 +72,5 @@ We have used GitHub and various e-meetings channels to plan, contribute communic
 * The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 
-## Acknowledgements (optional)
-* Really appreciated the support and guidance from my tutors, coordinators and colleagues. Thank you!
+## Acknowledgements
+* We really appreciated the support and guidance from our tutors, coordinators and colleagues. Thank you!
