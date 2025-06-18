@@ -1,4 +1,4 @@
-# ![Project title](/data/inputs/images/CreditCardChurnAnalysis-title.png)
+# ![Project title](/data/inputs/images/CreditCardChurnAnalysis-title-small.png)
 
 This collaborative short project explores card attrition rates using Jupyter Notebooks for ETL along with PowerBI for visualisation. While not all customers who leave are necessarily churners, attrition data can provide a valuable insight for trends and further investigation. Credit card churning happens when a person applies for lots of credit cards to collect big sign-up and welcome bonuses. Once they get the sign-up rewards and bonuses, a credit card churner will usually stop using the cards or cancel them, only to repeat the process again.
 
