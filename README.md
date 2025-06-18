@@ -60,6 +60,12 @@ GitHub has been used for version control and various e-meetings channels to plan
 * NumPy- Purpose: Numerical operations and array handling.
 * Matplotlib & Seaborn- Purpose: Data visualisation to explore relationships between variables.
 
+## Project Contributors
+GitHub user names:
+* rmj9000
+* bitandrei
+* LixPix
+
 ## Credits 
 * Code Institute https://learn.codeinstitute.net/ and GitHub: https://github.com/Code-Institute-Solutions/da-README-template, https://github.com/Code-Institute-Org/data-analytics-template
 * CoPilot for code correction and predictive suggestions
