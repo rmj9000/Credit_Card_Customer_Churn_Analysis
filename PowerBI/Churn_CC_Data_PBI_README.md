@@ -8,6 +8,8 @@ The issue is that it requires the absolute path for the data used ( BankChurners
 
 Attempts have been made to use a relative path, placing the data file in the same folder as the PowerBI file and trying to set a parameter to the relative path and pointing to the file.
 
+First of all, save the PowerBI file to your computer (.pbix file) then change the absolute pathname so that the data can be brought in from the data in this project.
+
 ## Step-by-Step: Create a Portable Power BI Package with the CSV file
 
 Use a Relative Path to the CSV in Power Query Instead of hardcoding the Absolute Pathname.
