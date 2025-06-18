@@ -11,6 +11,8 @@ Attempts have been made to use a relative path, placing the data file in the sam
 There are 2 Power BI files (in .pbix format) labelled chronologically.
 First of all, save the PowerBI file to your computer (.pbix file) then change the absolute pathname so that the data can be brought in from the data in this project.
 
+There are also 3 screenshots to preview the presentation.
+
 ## Step-by-Step: Create a Portable Power BI Package with the CSV file
 
 Use a Relative Path to the CSV in Power Query Instead of hardcoding the Absolute Pathname.
