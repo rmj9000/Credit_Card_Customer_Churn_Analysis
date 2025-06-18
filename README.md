@@ -73,7 +73,7 @@ GitHub user names:
 
 ### Content and Media
 
-* The data set is from https://www.kaggle.com/datasets/willianoliveiragibin/healthcare-insurance 
+* The data set is from https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers 
 * Instructions and project templates are from: Code Institute https://learn.codeinstitute.net/ and GitHub: https://github.com/Code-Institute-Solutions/da-README-template, https://github.com/Code-Institute-Org/data-analytics-template
 * The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
